@@ -710,6 +710,11 @@ iframe.lazy-placeholder,
 section.lazy-placeholder:after {
   opacity: 0.3;
 }
-.cid-s5bemZ4xaJ {
-  background-image: url("../../../assets/images/background4.jpg");
+.cid-s75p5ONzQa {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background: linear-gradient(45deg, #dbd4b8, #25aab2);
+}
+.cid-s75p5ONzQa .btn {
+  margin: 0 0 .5rem 0;
 }
